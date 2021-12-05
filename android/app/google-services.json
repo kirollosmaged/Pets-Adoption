@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "479458161385",
+        "project_id": "authsystem-63380",
+        "storage_bucket": "authsystem-63380.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:479458161385:android:a4ea64a607aa9ccb88f678",
+            "android_client_info": {
+                "package_name": "com.example.auth_system"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "479458161385-qup8usa4u2mq1ru2c5198shmb83vvvli.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCq1AUBIbZ0Rlj0sZdaR5lJoPJL8DTyZl0"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "479458161385-qup8usa4u2mq1ru2c5198shmb83vvvli.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
